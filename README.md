@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 
-[![Matias' Github Stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/hiatus770/github-readme-stats)
+[![Matias' Github Stats](https://github-readme-stats.vercel.app/api?username=hiatus770)]
 
 <!--
 **hiatus770/hiatus770** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
