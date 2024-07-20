@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 I'm a student studying computer engineering and I love to make all sorts of projects, below are some of my personal favourite creations that I've either made on my own or collaborated with. 
-Some of these have cool demos, check out [this one](hiatus770.github.io/myPage) 
+Some of these have cool demos, check out [this one](https://hiatus770.github.io/myPage) 
 
 <!--
 **hiatus770/hiatus770** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
