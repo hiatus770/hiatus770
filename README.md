@@ -1,7 +1,6 @@
 ## Hi there 👋
 
-I'm a student studying computer engineering and I love to make all sorts of projects, below are some of my personal favourite creations that I've either made on my own or collaborated with. 
-Some of these have cool demos, check out [this one](https://hiatus770.github.io/myPage) or [this one](https://hiatus770.github.io/blog/programming/graphics/2024/05/25/Marching-Cubes-and-Metaballs.html)
+I'm a student studying computer engineering and I love to make all sorts of projects. Some of these have cool demos, check out [this one](https://hiatus770.github.io/myPage) or [this one](https://hiatus770.github.io/blog/programming/graphics/2024/05/25/Marching-Cubes-and-Metaballs.html)
 
 <!--
 **hiatus770/hiatus770** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
